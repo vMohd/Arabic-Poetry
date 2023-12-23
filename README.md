@@ -12,7 +12,7 @@
 
 ## About Fusha ( فصحى ) 
 
-Fusha is a simple poems libary made with love for enthusiasts of classical Arabic poetry. We are passionate about collecting captivating and unique poetry from various poets across different eras.
+Fusha is a simple poems library made with love for enthusiasts of classical Arabic poetry. We are passionate about collecting captivating and unique poetry from various poets across different eras.
 
 It was made to celebrate the International Arabic Language Day and the Year of Arabic Poetry 2023
 
